@@ -57,6 +57,9 @@ Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure').
 
 * **Labels voor keuzelijstjes**: Start met hoofdletter.
 
+# Gelijkaardige modules
+In het verleden werden sommige keuzes niet consequent vertaald tussen bv. request-mgmt en request-mgmt-itil . Daardoor leek ook de waardering van gebruikers (tevredenheidsscore) lichtjes anders. Het is aangeraden dat dezelfde vertaler beide versies bijwerkt.
+
 
 Consultaties:
 * https://www.taaladvies.net
