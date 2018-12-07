@@ -33,6 +33,8 @@ Aan de hand van enkele voorbeelden heb ik een poging gedaan om in overleg met de
 
 * **Reconciliation**: voorlopig niet vertaald. Voorstel is 'matchen', maar hier is geen consensus over.
 
+Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure'). Bij de uitgebreide (+) beschrijving kan dit uiteraard lang.
+
 
 # Hoofdlettergebruik
 
