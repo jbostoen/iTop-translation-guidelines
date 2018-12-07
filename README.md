@@ -35,13 +35,31 @@ Aan de hand van enkele voorbeelden heb ik een poging gedaan om in overleg met de
 
 Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure'). Bij de uitgebreide (+) beschrijving kan dit uiteraard lang.
 
-* **Status**: 'obsolete' wordt 'Buiten gebruik'.
+* **Status**: 'obsolete' wordt 'Buiten gebruik'. (voordien: 'overbodig' en in dezelfde vertaling ook 'verouderd')
 
-* **Email**: E-mail ( https://www.taaladvies.net/taal/advies/vraag/1144/ ). E-mailadres.
+* **Email**: E-mailadres
+
+* **Notification**: Notificatie (nog geen discussie over bv. 'melding')
+
+* **Services**: bewust niet meer vertaald als 'diensten', omdat dit lost staat van een dienst ('departement') en omdat 'service' ook wel ingeburgerd is.
+
+* **Acties in linkermenu**: 
+'create', 'search':
+'Menu:NewContact' => 'Nieuw contact',
+'Menu:NewContact+' => 'Maak een nieuw contact aan',
+'Menu:SearchContacts' => 'Zoek naar contacten',
+'Menu:SearchContacts+' => 'Zoek naar contacten',
+
 
 # Hoofdlettergebruik
 
 * **Klassenamen**: blijven met een hoofdletter geschreven worden. Wel kan de spatie vervallen in functie van spelling.
 
 * **Labels voor keuzelijstjes**: Start met hoofdletter.
+
+
+Consultaties:
+* https://www.taaladvies.net
+* https://www.linguee.nl/nederlands-engels/search?source=auto&query=x
+
 
