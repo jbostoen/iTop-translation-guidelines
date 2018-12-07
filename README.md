@@ -37,8 +37,7 @@ Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure').
 
 * **Status**: 'obsolete' wordt 'Buiten gebruik'.
 
-* **Email**: E-mail ( https://www.taaladvies.net/taal/advies/vraag/1144/ ). E-mailadres zou bepaalde labels meteen langer maken.
-
+* **Email**: E-mail ( https://www.taaladvies.net/taal/advies/vraag/1144/ ). E-mailadres.
 
 # Hoofdlettergebruik
 
