@@ -23,7 +23,7 @@ Tenzij het om specifieke termen gaat die momenteel onvertaald blijven ('Change M
 # Manier van vertalen
 Aan de hand van enkele voorbeelden heb ik een poging gedaan om in overleg met de andere actieve Nederlandstalige vertaler @hipska tot richtlijnen te komen om consequent te vertalen.
 
-* **Change Manager Email**: Emailadres Change Manager. Een vertaling die meer naturel zal aanvoelen voor niet-technische gebruikers.
+* **Change Manager Email**: Emailadres Change Manager. Een vertaling die meer naturel zal aanvoelen voor niet-technische gebruikers. Om consequent te zijn, kiezen we ook voor 'Naam merk', 'Naam model', ... ipv 'Merknaam', 'Modelnaam', ...
 
 * **Parent / Child**: hoofd / sub . Vroeger was er 'moederorganisatie' of de suggestie van 'deelverzoek', maar dit valt soms moeilijk door te trekken.
 
