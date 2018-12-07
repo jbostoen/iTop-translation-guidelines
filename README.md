@@ -36,5 +36,7 @@ Aan de hand van enkele voorbeelden heb ik een poging gedaan om in overleg met de
 
 # Hoofdlettergebruik
 
+* **Klassenamen**: blijven met een hoofdletter geschreven worden. Wel kan de spatie vervallen in functie van spelling.
+
 * **Labels voor keuzelijstjes**: Start met hoofdletter.
 
