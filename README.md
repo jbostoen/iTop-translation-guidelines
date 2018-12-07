@@ -50,6 +50,10 @@ Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure').
 'Menu:SearchContacts' => 'Zoek naar contacten',
 'Menu:SearchContacts+' => 'Zoek naar contacten',
 
+# Afkortingen
+* 'Referentie' wordt in combinatie met andere woorden afgekort tot 'Ref.'
+
+
 
 # Hoofdlettergebruik
 
