@@ -13,6 +13,9 @@ De iTop-vertalingen bleken niet consequent in het gebruik van hoofdletters of be
 
 De vertaling van de Community-versie 2.6 werd gebaseerd op onderstaande richtlijnen.
 
+# Werkwijze
+Aan de hand van enkele voorbeelden heb ik een poging gedaan om in overleg met de andere actieve Nederlandstalige vertaler @hipska tot richtlijnen te komen zodat we eenduidig kunnen vertalen.
+
 ---
 
 
@@ -33,7 +36,6 @@ De oorspronkelijke vertaling gebruikte ook voornamelijk de je-vorm, we blijven h
 Tenzij het om specifieke termen gaat die momenteel onvertaald blijven ('Change Management'), wordt spelling gerespecteerd en woorden aan elkaar geschreven waar nodig. 'Auditcategorie' wordt bv. als één woord geschreven, zonder spatie tussen.
 
 ## Manier van vertalen
-Aan de hand van enkele voorbeelden heb ik een poging gedaan om in overleg met de andere actieve Nederlandstalige vertaler @hipska tot richtlijnen te komen om consequent te vertalen.
 
 * **Change Manager Email**: Emailadres Change Manager. Een vertaling die meer naturel zal aanvoelen voor niet-technische gebruikers. Om consequent te zijn, kiezen we ook voor 'Naam merk', 'Naam model', ... ipv 'Merknaam', 'Modelnaam', ...
 
