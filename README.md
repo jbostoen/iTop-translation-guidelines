@@ -14,7 +14,7 @@ De iTop-vertalingen bleken niet consequent in het gebruik van hoofdletters of be
 De vertaling van de Community-versie 2.6 werd gebaseerd op onderstaande richtlijnen.
 
 # Werkwijze
-Aan de hand van enkele voorbeelden heb ik een poging gedaan om in overleg met de andere actieve Nederlandstalige vertaler @hipska tot richtlijnen te komen zodat we eenduidig kunnen vertalen.
+Aan de hand van enkele voorbeelden heb ik een poging gedaan om in overleg met de andere actieve Nederlandstalige vertaler @Hipska tot richtlijnen te komen zodat we eenduidig kunnen vertalen.
 
 ---
 
@@ -37,7 +37,7 @@ Tenzij het om specifieke termen gaat die momenteel onvertaald blijven ('Change M
 
 ## Manier van vertalen
 
-* **Change Manager Email**: Emailadres Change Manager. Een vertaling die meer naturel zal aanvoelen voor niet-technische gebruikers. Om consequent te zijn, kiezen we ook voor 'Naam merk', 'Naam model', ... ipv 'Merknaam', 'Modelnaam', ...
+* **Change Manager Email**: Emailadres Change Manager. Een vertaling die meer naturel zal aanvoelen voor niet-technische gebruikers. Om consequent te zijn, kiezen we ook voor 'Naam merk', 'Naam model', ... ipv 'Merknaam', 'Modelnaam', ... . Een uitzondering hierop is VLAN-tag, wat beschouwd wordt als één term (vandaar ook het koppelteken).
 
 
 * **Email**: E-mailadres, e-mail (bericht)
