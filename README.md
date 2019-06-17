@@ -37,19 +37,18 @@ Tenzij het om specifieke termen gaat die momenteel onvertaald blijven ('Change M
 
 ## Manier van vertalen
 
-* **Change Manager Email**: Emailadres Change Manager. Een vertaling die meer naturel zal aanvoelen voor niet-technische gebruikers. Om consequent te zijn, kiezen we ook voor 'Naam merk', 'Naam model', ... ipv 'Merknaam', 'Modelnaam', ... . Een uitzondering hierop is VLAN-tag, wat beschouwd wordt als één term (vandaar ook het koppelteken).
-
+* **Change Manager Email**: E-mailadres Change Manager. 
+De vuistregel is eigenlijk om er '<eigenschap> (van) <persoon of item>' van te maken. Deze vertalingen voelen natuurlijker aan voor eindgebruikers. Om daarbij ook consequent te blijven, kiezen we ook voor 'Naam merk', 'Naam model', ... in plaats van gekende samenstellingen als 'Merknaam', 'Modelnaam', ... . Een uitzondering hierop is VLAN-tag, wat beschouwd wordt als één term (vandaar ook het koppelteken).
 
 * **Email**: E-mailadres, e-mail (bericht)
 
+* **Notification**: Notificatie (nog geen discussie gevoerd om dit door 'melding' te vervangen)
 
-* **Notification**: Notificatie (nog geen discussie over bv. 'melding')
-
-* **Parent / Child**: hoofd / sub . Vroeger was er 'moederorganisatie' of de suggestie van 'deelverzoek', maar dit valt soms moeilijk door te trekken.
+* **Parent / Child**: hoofd / sub . Vroeger was er 'moederorganisatie' of de suggestie van 'deelverzoek', maar dit valt soms moeilijk door te trekken over verschillende klasses heen.
 
 * **Reconciliation**: voorlopig niet vertaald. Voorstel is 'matchen', maar hier is geen consensus over.
 
-Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure'). Bij de uitgebreide (+) beschrijving kan dit uiteraard lang.
+Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure'). Bij de uitgebreide (+) beschrijving kan dit uiteraard wel volledig geschreven worden.
 
 * **Related**: 'gerelateerd'. Andere opties waren 'gelinkt' of 'verwant', maar we willen één term doortrekken.
 
@@ -76,12 +75,12 @@ Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure').
 
 ## Hoofdlettergebruik
 
-* **Klassenamen**: blijven met een hoofdletter geschreven worden. Wel kan de spatie vervallen in functie van spelling.
+* **Klassenamen**: blijven met een hoofdletter geschreven worden. Soms vervalt de spatie, omdat een klassenaam aan elkaar gescherven wordt achterliggend.
 
 * **Labels voor keuzelijstjes**: Start met hoofdletter.
 
 # Gelijkaardige modules
-In het verleden werden sommige keuzes niet consequent vertaald tussen bv. request-mgmt en request-mgmt-itil . Daardoor leek ook de waardering van gebruikers (tevredenheidsscore) enigzins anders: waar in de ene versie de klant nog 'matig' tevreden was, bleek dit bij de andere al 'eerder ontevreden'. Het is daarom aangeraden dat dezelfde vertaler beide versies bijwerkt.
+In het verleden werden sommige keuzes niet consequent vertaald tussen bijvoorbeeld request-mgmt en request-mgmt-itil . Daardoor leek ook de waardering van gebruikers (tevredenheidsscore) enigzins anders: waar in de ene versie de klant nog 'matig' tevreden was, bleek dit bij de andere al 'eerder ontevreden'. Het is daarom aangeraden dat dezelfde vertaler beide versies bijwerkt.
 
 
 Consultaties:
