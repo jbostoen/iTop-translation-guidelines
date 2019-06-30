@@ -35,7 +35,7 @@ De oorspronkelijke vertaling gebruikte ook voornamelijk de je-vorm, we blijven h
 ## Spelling
 Tenzij het om specifieke termen gaat die momenteel onvertaald blijven ('Change Management'), wordt spelling gerespecteerd en woorden aan elkaar geschreven waar nodig. 'Auditcategorie' wordt bv. als één woord geschreven, zonder spatie tussen.
 
-## Manier van vertalen
+## Vertalen van termen
 
 * **Change Manager Email**: E-mailadres Change Manager. 
 De vuistregel is eigenlijk om er '<eigenschap> (van) <persoon of item>' van te maken. Deze vertalingen voelen natuurlijker aan voor eindgebruikers. Om daarbij ook consequent te blijven, kiezen we ook voor 'Naam merk', 'Naam model', ... in plaats van gekende samenstellingen als 'Merknaam', 'Modelnaam', ... . Een uitzondering hierop is VLAN-tag, wat beschouwd wordt als één term (vandaar ook het koppelteken).
@@ -59,7 +59,7 @@ Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure').
 * **Status**: 'obsolete' wordt 'Buiten gebruik'. (voordien: 'overbodig' en in dezelfde vertaling ook 'verouderd')
 
 
-## Andere vormen van consequent vertalen
+## Consequent vertalen
 
 * **Acties in linkermenu**: 
 'new', 'search': het infolabel is iets uitgebreider.
@@ -72,6 +72,8 @@ Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure').
 * 'Referentie' wordt in combinatie met andere woorden afgekort tot 'Ref.'
 * 'Bijvoorbeeld' zal afgekort worden tot 'bv.'
 
+## Overgang van fases (states in een lifecycle)
+* Bevelvorm. 'Pas toe', 'Markeer als opgelost', ...
 
 ## Hoofdlettergebruik
 
