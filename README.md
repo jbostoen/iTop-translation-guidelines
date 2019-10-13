@@ -58,6 +58,9 @@ Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure').
 
 * **Status**: 'obsolete' wordt 'Buiten gebruik'. (voordien: 'overbodig' en in dezelfde vertaling ook 'verouderd')
 
+* **State**: Mogelijkheden waren 'toestand', 'staat', 'fase'. Wordt gebruikt in een levenscyclus, waardoor geopteerd wordt voor 'fase' en om het verschil te maken met 'status' van een object.
+
+* **Update, modify**: aanpassen
 
 ## Consequent vertalen
 
