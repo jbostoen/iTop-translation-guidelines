@@ -34,15 +34,17 @@ De oorspronkelijke vertaling gebruikte ook voornamelijk de je-vorm, we blijven h
 
 ## Spelling
 Tenzij het om specifieke termen gaat die momenteel onvertaald blijven ('Change Management'), wordt spelling gerespecteerd en woorden aan elkaar geschreven waar nodig. 'Auditcategorie' wordt bv. als één woord geschreven, zonder spatie tussen.
+ 
+
 
 ## Vertalen van termen
 
-* **Change Manager Email**: E-mailadres Change Manager. 
-De vuistregel is eigenlijk om er '<eigenschap> (van) <persoon of item>' van te maken. Deze vertalingen voelen natuurlijker aan voor eindgebruikers. Om daarbij ook consequent te blijven, kiezen we ook voor 'Naam merk', 'Naam model', ... in plaats van gekende samenstellingen als 'Merknaam', 'Modelnaam', ... . Een uitzondering hierop is VLAN-tag, wat beschouwd wordt als één term (vandaar ook het koppelteken).
+Een alfabetische lijst van enkele termen. Bevat ook principes.
+
 
 * **Email**: E-mailadres, e-mail (bericht)
 
-* **Notification**: Notificatie (nog geen discussie gevoerd om dit door 'melding' te vervangen)
+* **Notification**: Melding
 
 * **Parent / Child**: hoofd / sub . Vroeger was er 'moederorganisatie' of de suggestie van 'deelverzoek', maar dit valt soms moeilijk door te trekken over verschillende klasses heen.
 
@@ -61,6 +63,9 @@ Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure').
 * **State**: Mogelijkheden waren 'toestand', 'staat', 'fase'. Wordt gebruikt in een levenscyclus, waardoor geopteerd wordt voor 'fase' en om het verschil te maken met 'status' van een object.
 
 * **Update, modify**: aanpassen
+
+* **Template**: sjabloon
+
 
 ## Consequent vertalen
 
@@ -83,6 +88,13 @@ Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure').
 * **Klassenamen**: blijven met een hoofdletter geschreven worden. Soms vervalt de spatie, omdat een klassenaam aan elkaar gescherven wordt achterliggend.
 
 * **Labels voor keuzelijstjes**: Start met hoofdletter.
+
+
+* **Change Manager Email**: E-mailadres Change Manager. 
+De vuistregel is eigenlijk om er '<eigenschap> (van) <persoon of item>' van te maken. Deze vertalingen voelen natuurlijker aan voor eindgebruikers. Om daarbij ook consequent te blijven, kiezen we ook voor 'Naam merk', 'Naam model', ... in plaats van gekende samenstellingen als 'Merknaam', 'Modelnaam', ... . Een uitzondering hierop is VLAN-tag, wat beschouwd wordt als één term (vandaar ook het koppelteken).
+  
+  
+  
 
 # Gelijkaardige modules
 In het verleden werden sommige keuzes niet consequent vertaald tussen bijvoorbeeld request-mgmt en request-mgmt-itil . Daardoor leek ook de waardering van gebruikers (tevredenheidsscore) enigzins anders: waar in de ene versie de klant nog 'matig' tevreden was, bleek dit bij de andere al 'eerder ontevreden'. Het is daarom aangeraden dat dezelfde vertaler beide versies bijwerkt.
