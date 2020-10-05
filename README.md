@@ -1,6 +1,6 @@
 # iTop-translation-guidelines
-Simple repository related to translation guidelines for Dutch version.
-This is an unofficial document, but it contains some pointers on how to translate some strings. 
+Simple repository related to translation guidelines for the Dutch version of iTop.
+This is an unofficial document, but it contains some pointers on how to translate some strings in a consistent way. 
 It contains discussions about tone (formal vs. informal), literal or natural translations, ...
 
 It's written in Dutch because it focuses on specific things as well, sometimes including a bit of motivation.
@@ -11,10 +11,10 @@ It's written in Dutch because it focuses on specific things as well, sometimes i
 # Doel van deze richtlijnen
 De iTop-vertalingen bleken niet consequent in het gebruik van hoofdletters of bepaalde termen. Dit document kan een aanzet zijn voor Nederlandstalige vertalers om iTop (of extensies) ook in de toekomst op een gelijkaardige manier te vertalen als wat al beschikbaar is.
 
-De vertaling van de Community-versie 2.6 werd gebaseerd op onderstaande richtlijnen.
+De vertaling van de iTop Community-versie 2.6 en 2.7 werd gebaseerd op onderstaande richtlijnen.
 
 # Werkwijze
-Aan de hand van enkele voorbeelden heb ik een poging gedaan om in overleg met de andere actieve Nederlandstalige vertaler @Hipska tot richtlijnen te komen zodat we eenduidig kunnen vertalen.
+Aan de hand van enkele voorbeelden heb ik (Jeffrey Bostoen / @jbostoen) een poging gedaan om in overleg met de andere actieve Nederlandstalige vertaler @Hipska tot richtlijnen te komen zodat we op eenzelfde manier kunnen vertalen.
 
 ---
 
@@ -33,17 +33,22 @@ De oorspronkelijke vertaling gebruikte ook voornamelijk de je-vorm, we blijven h
 
 
 ## Spelling
-Tenzij het om specifieke termen gaat die momenteel onvertaald blijven ('Change Management'), wordt spelling gerespecteerd en woorden aan elkaar geschreven waar nodig. 'Auditcategorie' wordt bv. als één woord geschreven, zonder spatie tussen. Omwille van leesbaarheid of herkenbaarheid werd soms geopteerd voor een koppelteken ('Configuratie-item' -> 'CI')
+Tenzij het om specifieke termen gaat die momenteel onvertaald blijven (bijvoorbeeld 'Change Management'), wordt spelling gerespecteerd en worden woorden aan elkaar geschreven waar nodig (bijvoorbeeld 'Auditcategorie'). Omwille van leesbaarheid of herkenbaarheid werd soms geopteerd voor een koppelteken ('Configuratie-item' -> 'CI').
  
 
 
 ## Vertalen van termen
 
-Een alfabetische lijst van enkele termen. Bevat ook principes.
+Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure'). Bij de uitgebreide (+) beschrijving kan dit uiteraard wel volledig geschreven worden.
 
-* **Attachments:** Bijlagen ("bijlages" is foutief)
+
+Een alfabetische lijst van enkele Engelse termen. Bevat ook principes.
+
+* **Attachments**: Bijlagen ("bijlages" is geen correcte meervoudsvorm)
 
 * **Email**: E-mailadres, e-mail (bericht)
+
+* **Modify**: aanpassen
 
 * **Notification**: Melding
 
@@ -51,19 +56,17 @@ Een alfabetische lijst van enkele termen. Bevat ook principes.
 
 * **Reconciliation**: voorlopig niet vertaald. Voorstel is 'matchen', maar hier is geen consensus over.
 
-Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure'). Bij de uitgebreide (+) beschrijving kan dit uiteraard wel volledig geschreven worden.
+* **Related**: 'gerelateerd'. Andere opties waren 'gelinkt' of 'verwant', maar we willen proberen om één term door te trekken in diverse vertalingen.
 
-* **Related**: 'gerelateerd'. Andere opties waren 'gelinkt' of 'verwant', maar we willen één term doortrekken.
-
-* **Resolution date**: 'Opgelost sinds'. Dit is gebruiksvriendelijker dan 'resolutiedatum'.
+* **Resolution date**: 'Opgelost sinds'. Dit is gebruiksvriendelijker dan de vroegere term 'resolutiedatum' (of 'datum resolutie').
 
 * **Services**: bewust niet meer vertaald als 'diensten', om verwarring te vermijden met 'een dienst' ('departement') en omdat 'service' ('dienstverlening') ook wel ingeburgerd is.
 
-* **Status**: 'obsolete' wordt 'Buiten gebruik'. (voordien: 'overbodig' en in dezelfde vertaling ook 'verouderd')
-
 * **State**: Mogelijkheden waren 'toestand', 'staat', 'fase'. Wordt gebruikt in een levenscyclus, waardoor geopteerd wordt voor 'fase' en om het verschil te maken met 'status' van een object.
 
-* **Update, modify**: aanpassen
+* **Status**: 'obsolete' wordt 'Buiten gebruik'. (voordien: 'overbodig' en in dezelfde vertaling ook 'verouderd')
+
+* **Update**: aanpassen
 
 * **Template**: sjabloon
 
@@ -72,39 +75,49 @@ Veldlabels worden kort vertaald: 'Naam enclosure' (ipv 'Naam van de enclosure').
 ## Consequent vertalen
 
 * **Acties in linkermenu**: 
-'new', 'search': het infolabel is iets uitgebreider.
+* Het infolabel (+) is iets uitgebreider.
+* 'New' is enkelvoud
+* 'Search' is meervoud
+
+```
 'Menu:NewContact' => 'Nieuw contact',
 'Menu:NewContact+' => 'Maak een nieuw contact aan',
 'Menu:SearchContacts' => 'Zoek naar contacten',
 'Menu:SearchContacts+' => 'Zoek naar contacten',
+```
 
 ## Afkortingen
 * 'Referentie' wordt in combinatie met andere woorden afgekort tot 'Ref.'
 * 'Bijvoorbeeld' zal afgekort worden tot 'bv.'
 
 ## Overgang van fases (states in een lifecycle), actie-knoppen
-* Bevelvorm. 'Pas toe', 'Markeer als opgelost', ...
+* Bevelvorm. Bijvoorbeeld: 'Pas toe', 'Markeer als opgelost', ...
 
 ## Hoofdlettergebruik
 
-* **Klassenamen**: blijven met een hoofdletter geschreven worden. Soms vervalt de spatie, omdat een klassenaam aan elkaar gescherven wordt achterliggend.
+* **Klassenamen**: 
+  * Blijven met een hoofdletter geschreven worden (bv. Persoon). 
+  * Soms vervalt de spatie, omdat een klassenaam aan elkaar geschreven wordt achterliggend in de code. (voorbeeld?)
 
 * **Labels voor keuzelijstjes**: Start met hoofdletter.
 
 ## Volgorde van termen (bv. naam model <-> modelnaam)
 * **Change Manager Email**: E-mailadres Change Manager. 
-De vuistregel is eigenlijk om er '<eigenschap> (van) <persoon of item>' van te maken. Deze vertalingen voelen natuurlijker aan voor eindgebruikers. Om daarbij ook consequent te blijven, kiezen we ook voor 'Naam merk', 'Naam model', ... in plaats van gekende samenstellingen als 'Merknaam', 'Modelnaam', ... . 
+  * De vuistregel is om er '<eigenschap> (van) <persoon of item>' van te maken. Deze vertalingen voelen natuurlijker aan voor eindgebruikers. 
+  * Om daarbij ook consequent te blijven, kiezen we ook voor 'Naam merk', 'Naam model', ... in plaats van gekende samenstellingen als 'Merknaam', 'Modelnaam', ... . 
   
 # id, name, friendlyname
-Velden met 'id' worden meestal vertaald als bv. osversion_id -> 'Soort besturingssysteem'.
-Velden met 'name' worden meestal vertaald als bv. osversion_name -> 'Naam soort besturingssysteem'.
+  * Velden eindigend op 'id' worden vertaald als '<Klasse>'. Voorbeeld: osversion_id -> 'Soort besturingssysteem'.
+  * Velden eindigend op 'name' worden vertaald als 'Naam <klasse in kleine letters'. Voorbeeld: osversion_name -> 'Naam soort besturingssysteem'.
   
 
 # Gelijkaardige modules
-In het verleden werden sommige keuzes niet consequent vertaald tussen bijvoorbeeld request-mgmt en request-mgmt-itil . Daardoor leek ook de waardering van gebruikers (tevredenheidsscore) enigzins anders: waar in de ene versie de klant nog 'matig' tevreden was, bleek dit bij de andere al 'eerder ontevreden'. Het is daarom aangeraden dat dezelfde vertaler beide versies bijwerkt.
+  * In het verleden werden sommige keuzes niet consequent vertaald tussen bijvoorbeeld **request-mgmt** en **request-mgmt-itil** . 
+  * Het gevolg is dat er inhoudelijke verschillen optraden: bijvoorbeeld de waardering door de gebruikers (tevredenheidsscore): waar in de ene versie de klant nog 'matig' tevreden was, bleek dit bij de andere al 'eerder ontevreden'. 
+  * Het is daarom aangeraden dat dezelfde vertaler beide versies bijwerkt.
 
 
-Consultaties:
+# Consultaties:
 * https://www.taaladvies.net
 * https://www.linguee.nl/nederlands-engels/search?source=auto&query=x
 
